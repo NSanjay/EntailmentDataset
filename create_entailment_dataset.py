@@ -14,8 +14,8 @@ path_to_query = os.path.join(filepath, 'my_query.asp')
 print(path_to_query)
 #path_to_seq = os.path.join(filepath, 'seq_ds.asp')
 
-#cmd = "clingo --opt-mode=OptN --verbose=0 --warn no-atom-undefined '"+ path_to_kb + "'  '" + path_to_theory + "' '" + path_to_query +"'"
-cmd = "clingo --verbose=0 --warn no-atom-undefined '"+ path_to_kb + "'  '" + path_to_theory + "' '" + path_to_query +"' 20000"
+cmd = "clingo --opt-mode=OptN --verbose=0 --warn no-atom-undefined '"+ path_to_kb + "'  '" + path_to_theory + "' '" + path_to_query +"'"
+#cmd = "clingo --verbose=0 --warn no-atom-undefined '"+ path_to_kb + "'  '" + path_to_theory + "' '" + path_to_query +"' 20000"
 print(cmd)
 
 validate_predicate_reg_ex = re.compile('validate\(\"(.*?)\",\"(.*?)\",(\d)\)')
@@ -116,7 +116,7 @@ def read_file(parse_dict):
 def main():
     parser = argparse.ArgumentParser('Create Entailment Dataset')
 
-    parser.add_argument('--qType',default="indicator",choices=["lookup","difference","indicator"])
+    parser.add_argument('--qType',default="difference",choices=["lookup","difference","indicator"])
     parser_dict = vars(parser.parse_args())
     read_file(parser_dict)
 
