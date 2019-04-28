@@ -182,6 +182,11 @@ class CustomProcessor(DataProcessor):
         return self._create_examples(
             self._read_jsonl(os.path.join(data_dir, fname)), "score")
 
+    def get_score_examples_comparison_indicator(self, data_dir, fname):
+        """See base class."""
+        return self._create_examples_modified(
+            self._read_jsonl(os.path.join(data_dir, fname)), "score")
+
     def get_labels(self):
         """See base class."""
         return ["0", "1"]
@@ -198,6 +203,71 @@ class CustomProcessor(DataProcessor):
             hypothesis_text = line["hypothesis"]
             hypothesis_text = re.sub(self.w_patterns,"",hypothesis_text)
             a_label = int(line["label"])
+
+            sentences = modified_premise_text.split('.')
+
+            for j, sentence in enumerate(sentences):
+                guid = "" + str(sentence_number) + "\t" + str(i) + "\t" + str(len(sentences)) + "\t" + str(a_label)
+                text_a = sentence
+                text_b = hypothesis_text
+                label = a_label
+                sentence_number += 1
+                examples.append(
+                    InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
+            #print("16th sentence::",sentences[16])
+
+        return examples
+
+    def _create_examples_modified(self, lines, set_type):
+        """Creates examples for the training and dev sets."""
+        examples = []
+        
+        for (i, line) in enumerate(lines):
+            a_label = int(line["label"])
+            q_type = line["type"]
+            if a_label == 0 and q_type != "qLookup":
+                #print("discontinue")
+                continue
+            sentence_number = 0
+            premise_text = line["premise"]
+            modified_premise_text = re.sub(self.stage_name_pattern,"",premise_text)
+            modified_premise_text = re.sub(self.w_patterns,"",modified_premise_text)
+            hypothesis_text = line["hypothesis"]
+            hypothesis_text = re.sub(self.w_patterns,"",hypothesis_text)
+            
+
+            sentences = modified_premise_text.split('.')
+
+            for j, sentence in enumerate(sentences):
+                guid = "" + str(sentence_number) + "\t" + str(i) + "\t" + str(len(sentences)) + "\t" + str(a_label)
+                text_a = sentence
+                text_b = hypothesis_text
+                label = a_label
+                sentence_number += 1
+                examples.append(
+                    InputExample(guid=guid, text_a=text_a, text_b=text_b, label=label))
+            #print("16th sentence::",sentences[16])
+
+        return examples
+
+    def _create_examples_split(self, lines, set_type):
+        """Creates examples for the training and dev sets."""
+        examples = []
+        
+        for (i, line) in enumerate(lines):
+            a_label = int(line["label"])
+            q_type = line["type"]
+            if a_label == 0 and q_type != "qLookup":
+                #print("discontinue")
+                continue
+            sentence_number = 0
+            premise_text = line["premise"]
+            the_id = int(line["id"])
+            modified_premise_text = re.sub(self.stage_name_pattern,"",premise_text)
+            modified_premise_text = re.sub(self.w_patterns,"",modified_premise_text)
+            hypothesis_text = line["hypothesis"]
+            hypothesis_text = re.sub(self.w_patterns,"",hypothesis_text)
+            
 
             sentences = modified_premise_text.split('.')
 
@@ -432,7 +502,7 @@ def main():
     }
 
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    logger.info("device:::::\n\n",device)
+    logger.info("device:::::%s\n\n" %(device))
     n_gpu = torch.cuda.device_count()
     random.seed(args.seed)
     np.random.seed(args.seed)
@@ -452,7 +522,11 @@ def main():
     tokenizer = BertTokenizer.from_pretrained(args.bert_model, do_lower_case=args.do_lower_case)
 
     #score_examples = None
-    score_examples = processor.get_score_examples(args.data_dir, args.fname)
+    if "lookup" in args.fname:
+        score_examples = processor.get_score_examples(args.data_dir, args.fname)
+    else:
+
+        score_examples = processor.get_score_examples_comparison_indicator(args.data_dir, args.fname)
 
     # Prepare model
     #output_model_file = os.path.join(args.output_dir, "best_model.bin")
