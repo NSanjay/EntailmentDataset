@@ -1,9 +1,9 @@
 categories (concepts): 
 1)physical change/property 
 2)liquid water
-3)heat transfer using conduction (or just heat transfer)
-4) 
-5) celestial bodies interaction
+3)heat transfer using conduction 
+4) heat transfer
+5) celestial bodies interaction (might have to break down into difference in interactions between stars, planets and satellites
 6) chemical change/property
 7) electrical property
 8) nuclear property
@@ -17,17 +17,37 @@ categories (concepts):
 16) asexual reproduction
 17) selective breeding
 18) genetic engineering
-19) good health habit
+19) good health habits (very general)
 20) heat transfer by convection
 21) erosion
-22) animal instinct
+22) heat transfer using convection
 23) unicellular organism model
 24) negative feedback mechanism in human body
 25) balanced forces
 26) form of energy
 27) adaptation for defence from predators
-28) human-made product
+28) human-made product/naturally occurring product
 29) waste elimination
+30) learned behavior
+31) instinctive behavior
+32) response to crowding
+33) inherited behavior
+34) physical characteristic
+35) acquired characteristic
+36) two dimensional models
+37) basic map
+38) behavioral adaptation
+39) environmental behavior
+40) benefits of technology to society/environment(might have to divide as two)
+41) negative impacts of technology
+42) convenient features of technology
+43) medical advances of technology ( if there's such a thing)
+44) universal systems model (if required additional concepts for input, process, output,feedback)
+45) change of state ( liquid to solid; solid to liquid; gas to solid; gas to liquid )
+46) pure substance
+47) mixture formation
+48) form of energies
+
 
 categories (activities):
 1) saving water conserves future resources (resource conservation)
@@ -35,28 +55,18 @@ categories (activities):
 3) plants need water to be healthy (means of surviving/nutritional need)
 4) everyday materials can be reused (reusing materials)
 5) tools that provide increased gripping force
-6) learned behavior
-7) instinctive behavior
-8) response to crowding
-9) escaping from predators
-10) inherited behavior
-11) physical characteristic
-12) acquired characteristic
-13) behavioral adaptation
-14) environmental behavior
-15) giving feedback
-16) Setting a goal
-17) designing a process
-18) generating output
-19) technology being used to help heal people.
-20) medical procedures being used to hurt people.
-21) expensive medicines being used for many purposes.
+
+9) escaping from predators/defending from predators
+
+19) technology used to help heal people.
+20) medical procedures used to hurt people.
+21) expensive medicines used for many purposes.
 22) the solution to one problem causing another problem.
-23) escape strategy to avoid being killed by predators
-24) adding water to acid
+
+
 25) boiling of water
-26) change of state ( liquid to solid; solid to liquid; gas to solid; gas to liquid )
-27) mixture formation
+26)
+27) 
 28) inference from observation
 29) observation from predictions
 30) prediction from data
