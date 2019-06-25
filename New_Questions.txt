@@ -1,51 +1,291 @@
 example questions:
 Category A)
 1) physical change - 
-Which of the following is an example of physical change?
-A) An iron nail corroded in moist air
-B) Water separating into hydrogen and oxygen
-C) Liquification of copper metal
-D) Mixing soda and vinegar to produce carbon dioxide
-Answer: C)
+
+	1. Which of the following is an example of physical change?
+	A) An iron nail corroded in moist air
+	B) Water separating into hydrogen and oxygen
+	C) Liquification of copper metal
+	D) Mixing soda and vinegar to produce carbon dioxide
+	Answer: C)
+
+	2. Materials like Iron and Ice can be changed from solid to liquid by increasing their temperature. This change is an example of which type of property?
+	A) physical
+	B) mechanical
+	C) chemical
+	D) nuclear
+	Answer: A)
+
+	3. All of the following events are examples of physical change except?
+	A) Formation of frost on a car windshield on a humid winter night.
+	B) An old car crushed into the shape of a cube
+	C) A boat made from a sheet of paper
+	D) The formation of glucose from carbon di oxide and sunlight
+	Answer: D)
+
+	4. Some metals like Iron are ductile whereas other metals like Potassium are not. This difference between the two is an example of which kind of property?
+	A) chemical
+	B) physical
+	C) mechanical
+	D) nuclear
+	Answer: B)
 
 2) Liquid Water -
-Which of the following is not an example of an object containing liquid water?
-All of the following are examples of objects containing liquid water except?
-A) Swimming pool
-B) A cloud
-C) An ocean
-D) A pond
-Answer: B)
+
+	1. Which of the following is not an example of an object containing liquid water?
+	All of the following are examples of objects containing liquid water except?
+	A) Swimming pool
+	B) A cloud
+	C) An ocean
+	D) A pond
+	Answer: B)
+
+	2. Which process provides an example of converting liquid water to gaseous water
+	A) subjecting liquid water to low temperatures below the freezing point of water
+	B) subjecting liquid water to high temperatures well below the boiling point of water
+	C) subjecting liquid water to high temperatures at the boiling point of water
+	D) subjecting liquid water to high amount of electricity
+	Answer: C)
+
+	3. Which of the following is an example of a substance with the same state of matter as liquid water?
+	A) Mercury at room temperature
+	B) Iron filings
+	C) Nitrogen at room temperature
+	D) Aluminium can
+	Answer: A)
+
+	4. Steam is a gaseous substance and Ice is a solid substance. Despite this difference, these two substances have the same chemical composition as which substance?
+	A) vapor
+	B) hydro plant fuel
+	C) hydro electricity
+	D) water
+	Answer: D)
 
 3) heat transfer using conduction
-Which of these examples do not involve heat transfer by conduction?
-A) Transfer of heat from a clothes iron to a shirt.
-B) melting of ice when held by a person.
-C) A car that is turned on warms the hood of the car.
-D) A heater heats a cold room.
-Answer: D)
+
+	1. Which of these examples do not involve heat transfer by conduction?
+	A) Transfer of heat from a clothes iron to a shirt.
+	B) melting of ice when held by a person.
+	C) A car that is turned on warms the hood of the car.
+	D) A heater heats a cold room.
+	Answer: D)
+
+	2. A person walking barefoot on a hot road is in risk of getting their feet burnt. The heat transfer between the road and the feet is an example of?
+	A) convection
+	B) conduction
+	C) radiation
+	D) global warming
+	Answer: B)
+
+	3. Which of the following is an example of heat transfer by conduction?
+	A) A person's hand burning after touching a car engine
+	B) A person's hand burning after touching a corrosive substance
+	C) A burning sensation on a person's hand after touching poison ivy
+	D) A burning sensation caused by acid reflux in the stomach.
+	Answer: A)
+
+	4. A person's hands are burnt after touching hot coal. A person's head becomes warm after prolonged exposure to the sun. The two situations demonstrate an example of the difference of which phenomenon?
+	A) heat capacity of an object
+	B) heat stroke of objects
+	C) transfer of heat between objects
+	D) heat of fusion of objects
+	Answer: C)
 
 4) celestial bodies interaction
-Which is an example of an interaction between the earth and the sun?
-A) Solar Eclipse
-B) Solar Winds
-C) Earthquakes
-D) Volcanoes
-Answer: A)
+
+	1. Which event is an example of an interaction between the earth and the sun?
+	A) Solar Eclipse
+	B) Solar Winds
+	C) Earthquakes
+	D) Volcanoes
+	Answer: A)
+
+	2. Planets orbit a star. This interaction between the planet and the star is an example of
+	A) The gravitational pull of intermediate objects on both the star and the planet
+	B) The gravitational pull of the planet on the star
+	C) The gravitational pull of the star on the planet
+	D) The gravitational pull of the center of the galaxy
+	Answer: C)
+
+	3. Which event is an example of an interaction between the earth and the moon?
+	A) The size of the moon
+	B) A blood moon
+	C) An asteroid impact on the moon
+	D) The whitish appearance of the moon
+	Answer: B)
+
+	4. A lunar eclipse is caused when the earth's shadow falls on the moon, whereas a solar eclipse is caused by the moon blocking the moon. The difference between the two situations is an example of which type of event?
+	A) interaction betweeen artificial satellites
+	B) interaction between objects in earth
+	C) interation between living beings.
+	D) interaction between astronomical objects
+	Answer: D)
+
 
 5) Chemical Change
-All of the following are chemical properties of Iron except?
-A) Iron is ductile
-B) Iron combines with oxygen in presence of water to form rust.
-C) Iron is not flammable under atmospheric air conditions.
-D) Iron reacts with hydrochloric acid to produce to iron chloride.
-Answer: A)
+
+	1. All of the following are examples of chemical properties of Iron except?
+	A) The shape of Iron can be modified to make pipes
+	B) Iron combines with oxygen in presence of water to form rust.
+	C) Iron is not flammable under atmospheric air conditions.
+	D) Iron reacts with hydrochloric acid to produce to iron chloride.
+	Answer: A)
+
+	2. Which of the following scenarios are an example of a chemical reaction?
+	A) A human inhaling oxygen through the nose
+	B) The human skin becoming disfigured when acid is thrown on it
+	C) A solid substance changing its state when subject to high temperatures.
+	D) The body of a human becoming wet when it is under water.
+	Answer: B)
+
+	3. The tissues of an animal decompose soon after its death. This event is an example of?
+	A) nuclear reaction
+	B) physical reaction
+	C) chemical reaction
+	D) mechanical reaction
+	Answer: C)
+
+	4. Some substances react with moisture, whereas other materials do not. This difference between the two is an example of which kind of property?
+	A) physical
+	B) moisturization
+	D) viscosity
+	D) chemical
+	Answer: D)
+
+6) Electrical property
+
+	1. Which of the following best explains why copper is used in electrical wiring
+	A) Copper does not corrode easily.
+	B) Copper has very low resistivity.
+	C) Copper can be combined with tin easily.
+	D) Wires can be easily made from copper.
+	Answer: B)
+
+	2. Which of the following is an example of saving electricity?
+	A) Having the lights on during the morning
+	B) Turning the lights on while sleeping
+	C) Leaving the air conditioning system on before leaving home
+	D) Opening the windows in a house instead of turning on the Air Conditioning system.
+	Answer: D)
+
+	3. All of these are examples of generating electricity except?
+	A) River water is used to spin a turbine which causes a generator to produce electricity
+	B) Steam produced from fuel in nuclear power plants causes a generator to produce electricity
+	C) Steam heated from burning carbon fuel causes a generator to produce electricity
+	D) Turning on the main electric switch in a house causes electrical applicances to work
+	Answer: C)
+
+	4. Metal oxides are suitable for use in capacitors. However, Air is not very suitable. The difference between the application of the two substances is an example of which type of property?
+	A) electrical
+	B) electromagnetic
+	C) chemical
+	D) physical
+	Answer: A)
+
+
+7) Nuclear property
+
+	1. Deuterium and Protium are isotopes of each other because?
+	A) Both elements have the same atomic weight but different atomic numbers
+	B) Both elements have same atomic numbers but different number of electrons
+	C) Both elements have same atomic numbers but differ in their atomic weight
+	D) Both elements have different atomic weight and different atomic numbers
+	Answer: C)
+
+	2. Nuclear reactions in reactors that use Uranium as fuel are an example of?
+	A) Nuclear fusion reactions
+	B) Nuclear fission reactions
+	C) Nuclear burning reactions
+	D) Fuel decay reactions
+	Answer: B)
+
+	3. Nuclear power is cheap and the world's supply of nuclear fuel is plentiful. What is the single major factor that has limited the expansion of nuclear power as a source of electricity?
+
+	A) Disposal of radioative waste
+	B) Noise pollution
+	C) Danger of nuclear explosion
+	D) Failure to share technology
+	Answer: A)
+
+	3. The concerns of disposing radioactive waste hass limited the expansion of nuclear power as a source of electricity. This concern is an example of?
+	A) The potential hazards of nuclear energy.
+	B) The potential benefits of nuclear energy.
+	C) Danger of nuclear explosion
+	D) Failure to share nuclear technology
+	Answer: A)
+
+	4. Which of the following provides an example of the strong nuclear force
+	A) The nucleons in the nucleus of an oxygen atom repelled from each other
+	B) The number of protons and neutrons binded together in a molecule of salt
+	C) The protons and the neutrons of a water molecule binded together in the nucleus
+	D) The nucleons in the nucleus of a carbon atom sticked together in the nucleus
+	Answer: D)
+
+	5. The nucleus of some atoms are stable, whereas it is unstable for other elements. This difference is an example of which property of these elements?
+	A) electrical
+	B) chemical
+	C) nuclear
+	D) electronic
+	Answer: C)
+
+8) Mechanical energy
+
+	1. Which event provides the best example of a form of mechanical energy?
+	A) The signal from a mobile phone interfering with a laptop
+	B) A metal getting corroded.
+	C) A swimming pool warmed by the sun
+	D) An object orbiting the earth
+	Answer: D)
+
+	2. Which event provides the best example of a form of potential energy?
+	A) A baseball pitcher's arm before pitching
+	B) A boxer punching a punch bag
+	C) A person singing at a concert
+	D) A fire alarm ringing
+	Answer: A)
+
+	3. An animal aimlessly wanders through a forest throughout the day. This event is an example of?
+	A) potential energy
+	B) kinetic energy
+	C) chemical energy
+	D) sound energy
+	Answer: B)
+
+	4. Some materials have an inherent energy stored in them, whereas others do not. This difference is an example of which type of energy?
+	A) kinetic energy
+	B) chemical energy
+	C) potential energy
+	D) nuclear energy
+	ANswer: C)
 
 Category B) - Activities
+
 1) Reuse of everyday materials
-Which of the following is not an example of reusing materials
-A) Rain water harvesting
-B) Hanging a photo frame using copper wire
-C) burning fossil fuels to power a vehicle
-D) Create bird feeders out of soda bottles
-Answer: C)
+
+	1. Which of the following is not an example of reusing materials
+	A) Rain water harvesting
+	B) Hanging a photo frame using copper wire
+	C) burning fossil fuels to power a vehicle
+	D) Create bird feeders out of soda bottles
+	Answer: C)
+
+	2. A container of coffee powder can be used as a salt container after the coffee powder is completely utilized. This event is an example of
+	A) Using a material for only purpose
+	B) Reusing one material for different purposes
+	C) Using multiple materials for the same purpose
+	D) Some materials incapable of being used for any purpose
+	Answer: B)
+
+	3. A person uses an identical grocery bag everytime they go shopping. This scenario is an example of?
+	A) Reusing a material multiple times.
+	B) Using the same type of material multiple times
+	C) Saving money during shopping
+	D) Saving multiple trips to the grocery shop
+	Answer: A)
+
+	4. A shirt can be repurposed after their initial use, whereas fossil fuels cannot. This difference is an example of which idea?
+	A) reduction of material use
+	B) inefficient material use
+	C) plentiful supply of materials
+	D) reusage of materials
+	Answer: D)

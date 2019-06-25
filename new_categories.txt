@@ -76,3 +76,19 @@ categories (activities):
 34) reproducing
 35) nutrient intake
 36) 
+
+
+
+Question Types:
+
+1) Which of the following is an example of a category?
+
+2) Given a scenario, what is it an example of?
+
+3) All of the following are examples of a category except?
+
+4) Given two situations, the fifference is an example of?
+
+5) Given a scenario, Take a specific part of the scenario. It is an example of
+
+6) mention examples of a category. Which definition explains the category?
