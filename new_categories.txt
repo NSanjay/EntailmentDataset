@@ -1,31 +1,31 @@
 categories (concepts): 
-1)physical change/property 
-2)liquid water
-3)heat transfer using conduction 
-4) heat transfer
-5) celestial bodies interaction (might have to break down into difference in interactions between stars, planets and satellites
-6) chemical change/property
-7) electrical property
-8) nuclear property
+1)physical change/property - Yes
+2)liquid water - Yes
+3)heat transfer using conduction - Yes
+4) heat transfer - Yes
+5) celestial bodies interaction (might have to break down into difference in interactions between stars, planets and satellites - Yes
+6) chemical change/property - Yes
+7) electrical property - Yes
+8) nuclear property - Yes
 9) organic weathering of rocks
-10) mechanical energy
-11) rationing
-12) recycling
-13) substitution
-14) conservation
-15) natural selection
-16) asexual reproduction
-17) selective breeding
-18) genetic engineering
+10) mechanical energy - Yes
+11) rationing - Yes
+12) recycling - Yes
+13) substitution 
+14) conservation (resource conservation / animal conservation / conservation of energy)
+15) natural selection - Yes
+16) asexual reproduction - Yes
+17) selective breeding - Yes
+18) genetic engineering - Yes
 19) good health habits (very general)
-20) heat transfer by convection
-21) erosion
-22) heat transfer using convection
+20) heat transfer by convection - Yes
+21) erosion - Yes
+
 23) unicellular organism model
 24) negative feedback mechanism in human body
-25) balanced forces
-26) form of energy
-27) adaptation for defence from predators
+25) balanced forces - Yes
+26) form of energy - Yes
+
 28) human-made product/naturally occurring product
 29) waste elimination
 30) learned behavior
@@ -46,17 +46,16 @@ categories (concepts):
 45) change of state ( liquid to solid; solid to liquid; gas to solid; gas to liquid )
 46) pure substance
 47) mixture formation
-48) form of energies
 
 
 categories (activities):
-1) saving water conserves future resources (resource conservation)
+1) saving water conserves future resources (resource conservation) - 
 2) using old materials can waste money ()
 3) plants need water to be healthy (means of surviving/nutritional need)
-4) everyday materials can be reused (reusing materials)
+4) everyday materials can be reused (reusing materials) - Yes
 5) tools that provide increased gripping force
 
-9) escaping from predators/defending from predators
+9) escaping from predators/defending from predators - Yes
 
 19) technology used to help heal people.
 20) medical procedures used to hurt people.

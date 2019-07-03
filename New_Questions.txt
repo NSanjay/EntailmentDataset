@@ -30,6 +30,14 @@ Category A)
 	D) nuclear
 	Answer: B)
 
+	5. The boiling point of a substance is one of its physical properties. Which of the following describes a physical property
+	A) A physical property measures the chemical properties of a substance.
+	B) A physical changes the identity of a substance.
+	C) A physical property is quantifiable and can be gauged without changing the composition of a substance.
+	D) A physical property is quantifiable with changes to the identity of a substance
+	Answer: C)
+
+
 2) Liquid Water -
 
 	1. Which of the following is not an example of an object containing liquid water?
@@ -61,6 +69,13 @@ Category A)
 	D) water
 	Answer: D)
 
+	5. Water is a liquid substance. Which of the following describes a molecule of water?
+	A) A molecule of water contains one atom of hydrogen and two atoms of oxygen.
+	B) A molecule of water contains one atom of oxygen and two atoms of hydrogen
+	C) A molecule of water contains hydrogen and carbohydrates
+	D) A molecule of water contains two atoms of hydrogen and two atoms of oxygen
+	Answer: B)
+
 3) heat transfer using conduction
 
 	1. Which of these examples do not involve heat transfer by conduction?
@@ -90,6 +105,13 @@ Category A)
 	C) transfer of heat between objects
 	D) heat of fusion of objects
 	Answer: C)
+
+	5. A spoon that is contact with a heated pan becomes hot. This is an example of heat transfer by conduction. Which of the following best describes heat transfer by conduction?
+	A) heat is transferred between from a material with lower temperature to a material with higher temperature
+	B) heat is transferred from an external source to a material far away from the source
+	C) heat is transferred by a material as it moves from the source of the heat
+	D) heat is transferred between two materials through direct contact because of a temperature gradient
+	Answer: D)
 
 4) celestial bodies interaction
 
@@ -152,6 +174,13 @@ Category A)
 	D) chemical
 	Answer: D)
 
+	5. The reactivity of a material is an example of a its chemical property. Which of the following best describes a chemcical property?
+	A) A property of a material only observable when the chemical composition of the material undergoes a change
+	B) A property of a material observable even when material does not undergo a chemical reaction
+	C) A property of a material observable that is not related to a change in its chemical composition
+	D) A property of a material observable during both chemical and non-chemical reactions
+	Answer: A)
+
 6) Electrical property
 
 	1. Which of the following best explains why copper is used in electrical wiring
@@ -182,6 +211,12 @@ Category A)
 	D) physical
 	Answer: A)
 
+	5. The dielectric constant of a material is an example of an electrical property. Which of the following best describes an electrical property of a substance
+	A) A property of a material that can be determined in response to a chemical change
+	B) A property of a material that is quantifiable in response to electricity.
+	C) A property of a material that is quantifiable in response to only non electric fields
+	D) A property of a material that is quantifiable in the presence and absence of electricity
+	Answer: B)
 
 7) Nuclear property
 
@@ -228,6 +263,7 @@ Category A)
 	D) electronic
 	Answer: C)
 
+
 8) Mechanical energy
 
 	1. Which event provides the best example of a form of mechanical energy?
@@ -257,6 +293,247 @@ Category A)
 	C) potential energy
 	D) nuclear energy
 	ANswer: C)
+
+	5. An object rolling down a hill is an example of an object containing mechanical energy. Which of the following best explains mechanical energy?
+	A) Mechanical energy is the combined energy possessed by a body as a consequence of all other form of energies.
+	B) Mechanical energy is the energy possessed by a body as a consequence of its motion and kinetic energy
+	C) Mechanical energy is the energy possessed by a body as a consequence of its position and potential energy
+	D) Mechanical energy is the energy possessed by a body as a consequence of its motion and position
+	Answer: D)
+
+9) Heat transfer by convection
+
+	1. Which of the following is an example of heat transfer by convection?
+	A) A plate of warm food kept in a room gradually becomes cooler
+	B) A person that touches a hot plate of food has their hand burnt
+	C) A plate of cold food becomes warm when placed under the sun
+	D) A plate of food becomes burnt when it is on fire
+	Answer: A)
+
+	2. A person's body cools down rapidly when they are outside on a very cold. This event is an example of?
+	A) heat transfer by conduction
+	B) heat transfer by convection
+	C) heat transfer by radiation
+	D) heat transfer by evaporative cooling
+	Answer: B)
+
+	3. All of the following scenarios are examples of heat transfer by convection except?
+	A) A cone of ice cream melts when it is removed from the freezer
+	B) A stick of butter becomes a liquid when it is out of the refrigerator
+	C) A person feels warm while sittind under a bright incandescent lamp
+	D) A person's face feels warm when operating a grill.
+	Answer: C)
+
+10) Recycling
+
+	1. Which of the following is an example of recycling materials?
+	A) A used plastic bottle is later converted into a plastic toy
+	B) A used plastic bottle is disposed as trash and never used again
+	C) A new plastic bottle is bought after using another plastic toy
+	D) A new plastic bottle is manufactured by polymerisation
+	Answer: A)
+
+	2. The copper present in an old cell phone can be recovered and made into a vessel. This process of recovering for further use is an example of?
+	A) reduction of usage of materials
+	B) recycling of materials
+	C) discarding materials after use
+	D) manufacturing copper vessel from copper
+	Answer: B)
+
+	3. All of the following scenarios are events of recycling materials except?
+	A) A broken bottle of juice is later made into a bottle used to store wine
+	B) An old newspaper is used to make a new notebook
+	C) A bottle of juice is made by combining liquid sand and limestone
+	D) A crushed can of soda is processed and used as a can of soda again
+	Answer: C)
+
+11) Natural selection
+
+	1. Which of the following is an example of natural selection?
+	A) An animal survives in a desert because it can cope with a lack of moisture in the desert
+	B) An animal in a desert environment perishes because it cannot cope with the sandy conditions in the desert
+	C) An animal becomes endangered because of the increase in the number of predators that prey on the animal
+	D) An animal is unable to adapt to conditions in a new environment.
+	Answer: A)
+
+	2. An animal that has many predators starts to develop a toxin which can be harmful to these predators. This scenario is an example of?
+	A) selective breeding
+	B) natural selection
+	C) non evolution
+	D) predator hunting
+	Answer: B)
+
+	3. All of the following scenarios are examples of natural selection occurring except?
+	A) The shape and size of a giraffe's neck
+	B) The development of lungs for breathing in terrestrial animals
+	C) Certain animals being able to comprehend human commands
+	D) The diet of a bird containing only one prey in an environment
+	Answer: C)
+
+12) Asexual reproduction
+
+	1. Which of the follwing is an example of asexual reproduction?
+	A) A species of protozoa receives genes from one parent
+	B) A species of protozoa receives genes from two parents
+	C) A species of animal is conceived by a sperm fertilizing an egg
+	D) A species of plant has more than one parent
+	Answer: A)
+
+	2. An outgrowth in a certain animal breaks off from the animal to become a separate living thing. This event is an example of?
+	A) selective growth 
+	B) asexual reproduction
+	C) natural selection
+	D) sexual reproduction
+	Answer: B)
+
+	3. Which of the following is not an example of asexual reproduction?
+	A) A part of the body separated from a host animal develops into an identical animal
+	B) A new organism is born with genes inherited from one parent
+	C) A new organism is born with genes inherited from two parents
+	D) A part of the body keeps growing and separates from the host at a certain point
+	Answer: C)
+
+13) Rationing
+
+	1. In which of the following events is the concept of rationing observed?
+	A) Traffic lights that give equal priority to traffic on all sides
+	B) The flow of traffic stopped to allow high priority traffic to travel without delay
+	C) One family offered access to more supplies than another family
+	D) A well-off family allowed to hoard water during a water crisis
+	Answer: A)
+
+	2. A family ensures that the resources available to them are distributed among them equivalently. This scenario is an example of which concept?
+	A) hoarding
+	B) rationing
+	C) conservation
+	D) reusing
+	Answer: B)
+
+	3. Which of the following is not an example of rationing?
+	A) Rice is distributed in fixed amount to all people in a community
+	B) People standing in a queue for water are entertained according to the order of the queue
+	C) One person gets preferential treatment during a disease outbreak
+	D) People attending a birthday party all receive the same amount of cake
+	Answer: C)
+
+14) Form of energy
+	
+	1. Which of the following is an example of a form of energy?
+	A) The nails on a finger
+	B) A leaf on the ground
+	C) A police vehicle's siren turned on
+	D) The handle of a comb
+	Answer: C)
+
+	2. The lifeguard of a swimming pool is stationed on a lifeguard chair. What kind of energy does the lifeguard possess?
+	A) kinetic energy
+	B) potential energy
+	C) gravitational energy
+	D) water energy
+	Answer: B)
+
+	3. Which of the following is not an example of a form of energy?
+	A) An operational boombox
+	B) The water in a lake
+	C) Face cream inside a lid
+	D) A lion roaring
+	Answer: C)
+
+15) Genetic Engineering
+	
+	1. Which of the following is an example of genetic engineering?
+	A) An animal adapts to desert regions by learning to store drinking water
+	B) The rate of growth of a plant is increased by altering its nucleic acids
+	C) A piece of iron becomes modified after exposure to nitric acid
+	D) The nucleus of an unstable atom is altered when it is exposed to high speed particles
+	Answer: B)
+
+	2. A breed of plants are modified by scientists to be able to clean polluted water before using it. This modification is an example of?
+	A) Selective breeding
+	B) Genetic Engineering
+	C) Natural Selection
+	D) Evolution
+	Answer: B)
+
+	3. Which of the following is not an example of genetic engineering?
+	A) Modifying the vitamin content of rice
+	B) Enabling crops to kill pests on their own
+	C) An animal surviving a dry spell because of its inherent ability to retain water
+	D) Enabling trees to grow at a faster rate
+	Answer: C)
+
+16) Selective Breeding
+
+	1. Which of the following is an example of selective breeding?
+	A) A carrot plant with high nutritional value is bred with another carrot plant that is resistant to pesticides.
+	B) A carrot grows from a seed which is produced as a result of pollination
+	C) The genes of a carrot are modified to allow it to be more resistant to pesticides
+	D) Many carrots seeds are cultivated to meet the demand of carrot crops
+	Answer: A)
+
+	2. Some hens are bred with roosters having strong bones to enable them to lay more eggs. This activity is an example of?
+	A) Natural Selection
+	B) Selective Breeding
+	C) Evolution
+	D) Genetic Engineering
+	Answer: B)
+
+	3. Which of the following is not an example of selective breeding?
+	A) Breeding two fast horses to produce an offspring that can be used for racing
+	B) Cross-pollinate a sweet potato plant with a big potato plant to produce a big and sweet offspring
+	C) Modifying the composition of a potato plant to make it sweeter in taste
+	D) Oysters are selected for improvement in shell length
+	Answer: C)
+
+17) Balanced forces
+
+	1. Which of the following is an example of Balanced forces?
+	A) A snake moving in a winding motion
+	B) A car moving with constant increase in speed
+	C) A person falling down from a building
+	D) A person holding a tennis ball on their palm
+	Answer: D)
+
+	2. An animal standing on the ground experiences a downward force because of gravity and an upward force from the ground. These two forces together are an example of?
+	A) unbalanced forces
+	B) balanced forces
+	C) complementary forces
+	D) Normal forces
+	Answer: B)
+
+	3. Which of the following is not an example of balanced forces?
+	A) A person running at the same velocity
+	B) A person sleeping in one posture
+	C) A person falls down after being pushed on the back
+	D) A person sitting still in a parked car
+	Answer: C)
+
+18) Erosion (soil/rock)
+
+	1. Which of the following events are an example of soil erosion occurring?
+	A) Trees on a slope becoming uprooted during a landslide due to loose soil
+	B) Buildings constructed on hard soil that collapse as a result of an earthquake
+	C) Houses constructed near the edge of a cliff are demolished by machines
+	D) A large number of trees are grown in a region of rich soil.
+	Answer: A)
+
+	2. Some regions become barren because of grazing animals over a limit. The process that causes the land to become barren is an example of?
+	A) Rock erosion
+	B) Soil erosion
+	C) Weathering of rocks
+	D) Soil replacement
+	Answer: B)
+
+	3. Which of the following is not an example of a type of erosion?
+	A) All the sand from a beach being swept away by the wind
+	B) A crop field eing swept away by a flood
+	C) Parts of a big rock being swept away a river
+	D) The sand from a tar road being swept away by the wind
+	Answer: D)
+
+19) Human-made product/naturally occurring product
+
+20) Waste elimination
 
 Category B) - Activities
 
@@ -289,3 +566,39 @@ Category B) - Activities
 	C) plentiful supply of materials
 	D) reusage of materials
 	Answer: D)
+
+	5. Wine corks can be reused in kitchen decoration. Which of the following best explains the concepts of reuse of materials?
+	A) Using the same material only once
+	B) Using a different material after each use
+	C) Using the same material more than once
+	D) Decrease the number of materials available for use
+	Answer: C)
+
+2) Escaping from predators
+
+	1. Which of the following adaptations are an example of escaping from predators?
+	A) A frog's slimy skin
+	B) A male lion's mane
+	C) The death roll made by a crocodile
+	D) The scales on a snake's skin
+	Answer: A)
+
+	2. Some snakes pretend to be dead when faced against a cat. This activity is an example of?
+	A) attack against prey
+	B) defense against predators
+	C) fighting over mates
+	D) fighting over territory
+	Answer: B)
+
+	3. Which of the following is not an example of an escape mechanism from predators?
+	A) A gazelle fleeing from a lion attack
+	B) Some amphibians shedding their tails when attacked
+	C) Some animals blending their appearance with the environment to avoid detection
+	D) Some lizards sticking their long tongues to catch insects
+	Answer: D)
+
+3) Technology used to help heal people
+
+4) Medical procedures used to hurt people
+
+5) The solution to one problem causing another problem
