@@ -532,8 +532,22 @@ Category A)
 	Answer: D)
 
 19) Human-made product/naturally occurring product
+	
+	1. Which of the following is an example of a human-made product?
+	A) sandwich
+	B) lettuce
+	C) onion
+	D) potato
+	Answer: A)
 
-20) Waste elimination
+20) Waste elimination of plants/animals
+
+	1. Which of the following is an example of waste elimination from an animal's body?
+	A) A terrestrial animal inhaling oxygen using its nose
+	B) A terrestrial animal exhaling carbon di oxide from its lungs
+	C) An human's intestines absorbing nutrients from digested food
+	D) An human being removing dirty clothes
+	Answer: B)
 
 Category B) - Activities
 
@@ -599,6 +613,18 @@ Category B) - Activities
 
 3) Technology used to help heal people
 
-4) Medical procedures used to hurt people
+	1. Which of the following is an example of technology being used to help society?
+	A) Trees offering shade on a sunny day
+	B) The use of seatbelts in vehicles to help prevent fatalities during accidents (Some technology helps road safety.)
+	C) The use of explosives to kill a large number of people
+	D) Drinking water from a river stream to quench thirst
+	Answer: B)
 
-5) The solution to one problem causing another problem
+4) The solution to one problem causing another problem
+
+	1. Which of the following scenarios are an example of a solution to one problem causing another problem?
+	A) Antibiotic medication are used to fight problematic bacterial infections
+	B) A solar car can be used to overcome the problem of relying on non renewable fuels
+	C) Painkiller medication can mitigate pain but can cause death if consumed in excess quantities
+	D) A bottle can opener overcomes the problem of opening firm bottle caps
+	Answer: C)
